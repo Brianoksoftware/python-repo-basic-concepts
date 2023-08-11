@@ -1,9 +1,9 @@
 '''
-This is a multiline comment
+This is a multiline comment...comments are ignored by the interpreter
 
 ASTRONOMY QUIZ TEXT GAME program...covering the most crucial introductory python concepts
 AUTHOR(S): krenes neville
-		   brianokdev@gmail.com / briankabonyo.netlify.app
+	   brianokdev@gmail.com / briankabonyo.netlify.app
 '''
 
 #This is a single line comment
